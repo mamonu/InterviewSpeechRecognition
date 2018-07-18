@@ -1,6 +1,6 @@
 https://dsp.stackexchange.com/questions/2993/human-speech-noise-filter
 
- -  Does anyone know of a filter to attenuate non-speech? 
+ -  Q: Does anyone know of a filter to attenuate non-speech? 
         
         
         I am writing speech recognition software and would like to filter out everything but human speech. 
@@ -20,7 +20,7 @@ https://dsp.stackexchange.com/questions/2993/human-speech-noise-filter
         If you have any ideas, or there is something that I'm missing, please let me know. Much appreciated!
         
         
-A speech communication channel as used in telephony typically has a frequency response of 300 Hz to 3 kHz.
+A: A speech communication channel as used in telephony typically has a frequency response of 300 Hz to 3 kHz.
 Although this rejects a lot of the energy in normal speech, intelligibility is still quite good - 
 the main problem seems to be that certain plosive consonants, e.g. "p" and "t", can be a little hard to 
 discriminate without the higher frequency components.
