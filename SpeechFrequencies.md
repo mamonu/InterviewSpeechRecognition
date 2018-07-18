@@ -1,6 +1,6 @@
 https://dsp.stackexchange.com/questions/2993/human-speech-noise-filter
 
-        # Does anyone know of a filter to attenuate non-speech? 
+ -  Does anyone know of a filter to attenuate non-speech? 
         
         
         I am writing speech recognition software and would like to filter out everything but human speech. 
